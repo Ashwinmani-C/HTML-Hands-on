@@ -1,0 +1,30 @@
+<!doctype html>
+<html>
+
+<head>
+<title>AM Chocoloate Shop</title>
+</head>
+
+<body style="background-color:brown">
+
+<h1 style="background-color:gold;color:brown;border:12px double white;text-align:center">AM Chocolate Shop</h1>
+
+<img src="https://t3.ftcdn.net/jpg/03/61/84/02/360_F_361840290_dSQ5kgbSTrF2BCZtj6my8z5YZOroFOqi.jpg" height=100px width=200px/>
+<img src="https://jagsfresh-bucket.s3.amazonaws.com/media/package/img_one/2019-09-19/Nestle_Munch_-_Crunchiest_Ever_20.1_g_Pouch.jpg" height="100px" width"200px"/>
+<img src="https://5.imimg.com/data5/SELLER/Default/2024/1/375280430/QH/MK/AA/204331230/cadbury-5-star-chocolate.jpeg	" height="100px" width="200px"/>
+<img src="https://mir-s3-cdn-cf.behance.net/projects/404/fb4313142663483.Y3JvcCw4MDgsNjMyLDAsMA.png" height="100px" width="200px"/>
+<img src="https://www.lahoregifts.com/image/cache/catalog/chocolates/assorted-toblerone-bars-550x550.jpg" height="100px" width="200px"/>
+
+<p style="color:gold;font-size:25px">Our Favourites,</p>
+<p style="color:pink; font-size:20px"> KitKat, Munch, 5 Star, Perk, Toblerone & lot more. Don't delay, purchase soon & enjoy our natural chocolate taste experiences.</h1>
+
+<p style="color:gold; font-size:25px">About us</p>
+<p style="color:pink; font-size:20px">We, the manufacturer stated our company at 1970's to bring the same foreign chocolate level taste experience, in India, preparing it in a more natural way, 
+which enthusiats not only children, but also Adults and all. </p>
+
+<p style="font-size:25px;color:gold">Address:</p>
+<p style="font-size:20px;color:pink">No. 26, Poonamallee-Thiruvallur Road, Chennai - 602107</p>
+
+</body>
+
+</html>

@@ -1,0 +1,25 @@
+<!doctype html>
+<html>
+     <head>
+	  <title>styles</title>
+     </head>
+<body style="background-color:pink">
+      <img src="https://www.iist.ac.in/sites/default/files/2025-05/apj-abdul-kalam.png" height="250px" width="300px"/> 
+      <img src="https://www.iist.ac.in/sites/default/files/2025-05/apj-abdul-kalam.png" height="250px" width="300px"/> 
+      <h1 style="background-color:yellow; color:red; border:5px solid black;font-size:70px;text-align:center">Hello Developers</h1>
+      <h2 style='background-color:lightblue'>Hello Developers</h2>
+      <h3 style="background-color:red">Hello Developers</h3>
+      <h4 style="background-color:orange">Hello Developers</h4>
+      <h5>Hello Developers</h5>
+      <h6 style="background-color:violet; color:blue">Hello Developers</h6>
+      <h1 style="background-color:yellow; color:red; border:10px solid black;">Hello Developers</h1>
+           <h1 style="background-color:yellow; color:red; border:10px dashed black;">Hello Developers</h1>
+      <h1 style="background-color:yellow; color:red; border:10px dotted black;">Hello Developers</h1>
+      <h1 style="background-color:yellow; color:red; border:10px double black;">Hello Developers</h1>
+      <p style=background:lightgreen> Paragraph </p>
+            <h1 style="background-color:yellow; color:red; border:5px solid black;font-size:70px;text-align:left">Hello Developers</h1>
+                  <h1 style="background-color:yellow; color:red; border:5px solid black;font-size:70px;text-align:right">Hello Developers</h1>
+</body>
+</html>
+
+	

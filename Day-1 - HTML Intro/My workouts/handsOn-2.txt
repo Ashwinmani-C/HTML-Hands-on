@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> Headings </title>
+</head>
+<body>
+<h1>1st Rank</h1>
+<h2>2nd Rank</h2>
+<h3>3rd Rank</h3>
+<h4>4th Rank</h4>
+<h5>5th Rank</h5>
+<h6>6th Rank</h6>
+<h6></h6>
+
+</body>
+</html>

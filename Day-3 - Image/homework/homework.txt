@@ -1,0 +1,42 @@
+<!doctype html>
+<html>
+
+<head>
+<title>Different Pens</title>
+</head>
+
+<body style="background-color:lightgreen">
+<center><h1 style="background-color:gold;color:Brown">The Ultimate Guide to Different Types of Pens</h1></center>
+
+1)<img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/03-BICcristal2008-03-26.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" height="200px" width="200px" style="border:5px dotted orange; border-radius:50%" />
+<h1 style="background-color:lightblue; color:red; text-align:center;border:4px solid orange;font-size:30px;height:50px; width:200px;border-radius:20px">Ballpoint Pen</h1>
+
+2)<img src="https://www.rapiddeliveryservices.in/uploads/webp/glass-gel-blue_77218-.webp" height="200px" width="200px" style="border:5px dashed orange;border-radius:35px"> 
+<h1 style="background-color:lightblue;color:Red;text-align:center;border:4px double orange;font-size:30px;height:50px;width:200px;border-radius:20px">Gel Pen</h1>
+
+3)<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA7bfVGbc0zABhGKPDwoeRnPjd92tUrpMZ-ijpDxX7nQ&s=10" height="200px" width="200px" style="border:5px solid orange;border-radius:20%"/>
+<h1 style="background-color:lightblue;color:Red;text-align:center;border:4px dotted orange;font-size:30px height:50px; width:200px; border-radius:20px">Novelty Pen</h1>
+
+4)<img src="https://cdn.prod.website-files.com/634ae6ae4989d90059c9dca9/64db41485a98dbf9e67843ab_Rollerball%20Pens.webp" height="200px" width="200px" style="border:5px solid orange;border-radius:50%"/>
+<h1 style="background-color:lightblue;color:Red;text-align:center;border:4px dashed orange;font-size:30px; height:50px;width:200px;border-radius:20px">Rollerball Pens</h1>
+
+5) <img src="https://cdn.prod.website-files.com/634ae6ae4989d90059c9dca9/64db3ea24551dba45e97dfac_Fountain%20Pens.webp" height="200px" width="200px" style="border:5px double orange;border-radius:50%">
+<h1 style="background-color:lightblue;color:Red;text-align:center;border:4px solid orange;font-size:30px;height:50px;width:200px;border-radius:20px">Fountain Pen
+</h1>
+
+6) <img src="https://cdn.prod.website-files.com/634ae6ae4989d90059c9dca9/64db400766184326c19028ee_Click%20Pens.webp" height="200px" width="200px" style="border:5px dotted orange;border-radius:20px">
+<h1 style="background-color:lightblue;color:Red;text-align:center;border:4px dashed orange;font-size:30px;height:50px;width:200px;border-radius:50%">Click Pens</h1>
+
+7) <img src="https://cdn.prod.website-files.com/634ae6ae4989d90059c9dca9/64db3de1b2faa68e6b30781f_Stylus%20Pens.webp" height="200px" width="200px" style="border:5px double orange;border-radius:25px">
+<h1 style="background-color:lightblue;color:Red;text-align:center;border:4px solid orange;font-size:30px;height:50px;width:200px;border-radius:20px">Stylus Pens</h1>
+
+8)<img src="https://cdn.prod.website-files.com/634ae6ae4989d90059c9dca9/64db3c2fc289f2dea2a4d262_Highlighter%20Pens.webp" height="200px" width="200px" style="border:5px solid orange;border-radius:35px"/>
+<h1 style="background-color:lightblue;color:Red;text-align:center;border:4px dashed orange;font-size:30px; height:50px;width:250px;border-radius:20px">Highlighter Pens</h1>
+
+<center>
+<img src="https://i.pinimg.com/564x/ae/48/72/ae48728311a031807766d54ff47dabf6.jpg" height="200px" width="200px" style="border:5px solid orange;border-radius:35px"/>
+<h2 style="color:blue">Thank you for visiting our page
+</center>
+
+</body>
+</html>	

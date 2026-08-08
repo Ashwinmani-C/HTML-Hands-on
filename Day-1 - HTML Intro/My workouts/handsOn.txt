@@ -1,0 +1,12 @@
+<!doctype html>
+<html>
+<head>
+<title>Amazon</title>
+</head>
+<body>
+Footwear
+10-20 % discount
+cheapest price
+Summer Offer
+</body>
+</html>
