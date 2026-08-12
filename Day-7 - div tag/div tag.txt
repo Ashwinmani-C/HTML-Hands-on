@@ -1,0 +1,56 @@
+<!doctype html>
+<html>
+
+<head>
+<title>Div Tag</title>
+</head>
+
+<body>
+<h1> Hello Developers </h1>
+
+<div style="background-color:brown;color:yellow;text-align:center;font-size:20px">
+<p>Using div tag 1</p>
+<p>Using div tag 2</p>
+<p>Using div tag 3</p>
+</div>
+
+<!-- Empty square colored box  -->
+
+<p style="border:3px solid Black;height:100px;width:100px;background-color:Green"></p>
+<div style="border:3px solid Red;height:100px;width:100px;background-color:Pink"></div>  <br><br>
+<div style="border:3px solid Red;height:300px;width:300px;background-color:Pink">
+Hello
+</div>
+
+<!-- Square within square,for about 4 times , use it, using bloc-level elements    -->
+
+<br><br>
+<div style="height:300px;width:300px;background-color:green">
+     <div style="height:250px;width:250px;background-color:purple">
+          <div style="height:190px;width:190px;background-color:yellow">
+                <div style="height:120px;width:120px;background-color:orange">
+                </div>
+          </div>  
+     </div>
+  <span style="color:White	">Hello Developers</span>  
+</div>
+
+<!-- Empty color circle    -->
+<br><br><br>
+<div style="height:100px;width:100px;border:1px solid blue;border-radius:50%;background-color:purple">
+     
+</div>
+
+<!-- Circle within circle, for about 4 times,use it, using block-level elements  -->
+<br><br><br><br>
+<div style="height:300px;width:300px;border-radius:50%;background-color:Brown">
+     <div style="height:250px;width:250px;background-color:lightblue;border-radius:50%">
+          <div style="height:190px;width:190px;background-color:gold;border-radius:50%">	
+                <div style="height:120px;width:120px;background-color:orange;border-radius:50%">
+		</div> 
+          </div>  
+     </div>
+</div>
+
+</body>
+</html>
