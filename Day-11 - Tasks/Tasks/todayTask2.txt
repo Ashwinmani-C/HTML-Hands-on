@@ -1,0 +1,20 @@
+<!doctype html>
+<html>
+
+<head>
+<title>todayTask2</title>
+</head>
+
+<body style="background-color:Gold">
+
+<div style="background-color:White;height:500px;width:350px;margin:auto;margin-top:50px;box-sizing:border-box;border-radius:10px">
+	<img src="./Coding image.jpg" alt="Coding image" style="height:200px;width:325px;padding:5px;box-sizing:border-box;text-align:center;border-radius:10px"/>
+     <button style="background-color:LightBlue;color:Blue;border:none;padding:10px;padding-left:10px;padding-right:10px;padding-top:5px;padding-bottom:5px;text-align:center;border-radius:5px;box-sizing:border-box">Learning</button> 
+	 <p style="color:Gray">Published 21 Dec 2023</p>
+      <h2>HTML & CSS Foundations</h2>
+          <p>These lanaguagaes are the backbone of every website defining structure, content and presentation</p>
+       <img src="./Greg Hooper profile image.jpg" alt="Greg Hooper image" style="height:40px;width:40px;border-radius:50%"/><b>Greg Hooper</b>
+</div>
+
+</body>
+</html>
